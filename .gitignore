@@ -1,0 +1,6 @@
+.venv/
+.env
+uploads/
+.idea/
+__pycache__
+volumes/
